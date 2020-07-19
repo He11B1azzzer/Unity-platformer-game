@@ -7,7 +7,7 @@
 
 > Unity project made to learn how 3d and animations work
 
-> Contains only 1 playable level
+> Contains only 1 playable level as prototype
 
 > The main goal of the game is to collect all points and get to finish
 
